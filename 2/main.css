@@ -1,0 +1,55 @@
+*{
+    font-family:sans-serif;
+}
+
+body{
+    background-color: #7395ae;
+    height:100vh;
+    color:#fdfcfc;
+
+}
+
+.buttonup{
+    float: right;
+    margin-top:0px;
+    margin-left:20px;
+    padding-left:20px;
+}
+
+button{
+    background-color:#5d5c61;
+    height:35px;
+    width:150px;
+    color:#fdfcfc;
+    border:none;
+    font-size: 19px;
+    font-weight:normal;
+    border-radius:6px;
+}
+
+button:hover{
+    background-color:black;
+    cursor:pointer;
+}
+
+h1{
+    font-size:50px;
+    margin-left:100px;
+    margin-top:150px;
+}
+
+p{
+    font-size:20px;
+    margin-left:100px;
+}
+
+img{
+    
+    height:100px;
+    width:400px;
+    margin-left:40px;
+}
+
+.bing1{
+    margin-left: 55px;
+}
